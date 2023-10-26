@@ -1,5 +1,19 @@
 #urls-to-images
 
+Summary: I received a large list of URLs and downloaded all the images in JPG format, creating 200x200 thumbnails for each of them. 
+Additionally, I also converted the images to WebP format for my website. 
+
+so if you run the python script you will get folders called:jpg,thumbs-jpg,thumbs-webp,webp 
+
+jpg              image_name.jpg
+thumbs-jpg       image_name.jpg
+thumbs-webp      image_name.webp
+webp             image_name.webp
+
+
+Note that this works for images of various sizes like 400x400, 600x600, 800x800, and so on.
+
+
 1.Makes an HTTP GET request to each URL to fetch image data.
 
 2.Converts the image data into both JPG and WebP formats.

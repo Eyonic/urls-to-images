@@ -5,10 +5,13 @@ Additionally, I also converted the images to WebP format for my website.
 
 so if you run the python script you will get folders called:jpg,thumbs-jpg,thumbs-webp,webp <br>
 <br>
-jpg:              image_name.jpg <br>
-thumbs-jpg:       image_name.jpg <br>
-thumbs-webp:      image_name.webp <br>
-webp:             image_name.webp<br>
+
+<table>
+<tr><td>jpg</td><td>image_name.jpg</td></tr>
+<tr><td>thumbs-jpg</td><td>image_name.jpg</td></tr>
+<tr><td>thumbs-webp</td><td>image_name.jpg</td></tr>
+<tr><td>webp</td><td>image_name.jpg</td></tr>
+</table>
 
 <br>
 Note that this works for images of various sizes like 400x400, 600x600, 800x800, and so on.<br>

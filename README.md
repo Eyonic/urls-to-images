@@ -3,9 +3,7 @@
 Summary: I received a large list of URLs and downloaded all the images in JPG format, creating 200x200 thumbnails for each of them. 
 Additionally, I also converted the images to WebP format for my website. 
 
-so if you run the python script you will get folders called:jpg,thumbs-jpg,thumbs-webp,webp <br>
-<br>
-
+<br><br>
 Example URL:https://www.dierenartsleek.nl/wp-content/uploads/2017/12/Dierenartsen-Leek-Kittens.jpg
 
 <table>

@@ -4,8 +4,8 @@ Summary: I received a large list of URLs and downloaded all the images in JPG fo
 Additionally, I also converted the images to WebP format for my website. 
 
 <br>
-Example URL: example.com/image/Dierenartsen-Leek-Kittens.jpg
-
+URL: example.com/image/Dierenartsen-Leek-Kittens.jpg
+<br>
 <table>
 <tr><td>Folders</td><td>Image</td></tr>
 <tr><td>jpg</td><td>Dierenartsen-Leek-Kittens.jpg</td></tr>

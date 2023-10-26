@@ -15,7 +15,7 @@ Example URL:https://www.dierenartsleek.nl/wp-content/uploads/2017/12/Dierenartse
 </table>
 
 <br>
-Note that this works for images of various sizes like 400x400, 600x600, 800x800, and so on.<br>
+Note that this works for images of various sizes like 400x400, 600x600, 800x800, and so on.<br><br>
 
 
 1.Makes an HTTP GET request to each URL to fetch image data.<br>

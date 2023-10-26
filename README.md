@@ -6,11 +6,14 @@ Additionally, I also converted the images to WebP format for my website.
 so if you run the python script you will get folders called:jpg,thumbs-jpg,thumbs-webp,webp <br>
 <br>
 
+Example URL:https://www.dierenartsleek.nl/wp-content/uploads/2017/12/Dierenartsen-Leek-Kittens.jpg
+
 <table>
-<tr><td>jpg</td><td>image_name.jpg</td></tr>
-<tr><td>thumbs-jpg</td><td>image_name.jpg</td></tr>
-<tr><td>thumbs-webp</td><td>image_name.jpg</td></tr>
-<tr><td>webp</td><td>image_name.jpg</td></tr>
+<tr><td>Folders</td><td>Image</td></tr>
+<tr><td>jpg</td><td>Dierenartsen-Leek-Kittens.jpg</td></tr>
+<tr><td>thumbs-jpg</td><td>Dierenartsen-Leek-Kittens.jpg</td></tr>
+<tr><td>thumbs-webp</td><td>Dierenartsen-Leek-Kittens.webp</td></tr>
+<tr><td>webp</td><td>Dierenartsen-Leek-Kittens.webp</td></tr>
 </table>
 
 <br>

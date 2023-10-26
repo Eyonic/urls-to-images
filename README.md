@@ -11,3 +11,5 @@
 5.Handles errors, including failed HTTP requests and exceptions during the process.
 
 Example usage is provided with a list of URLs, and directories for storing the images and thumbnails are created if they don't already exist. The program automates the process of downloading, converting, and saving images, making it easy to work with image data from URLs.
+
+<a href="https://www.buymeacoffee.com/Eyonic" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
